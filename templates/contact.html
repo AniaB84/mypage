@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pl">
+    {% extends "parent.html" %}
+    {% block content %}
+    <body>
+          <h2 class="first">Kontakt</h2>
+          <ul>
+            {% for item in items %}
+            <li>{{item}}</li>
+            <li>{{item}}</li>
+            {% endfor %}
+          </ul>
+    {% endblock %}
+        <form action="" method="POST">
+        <label>Wyślij wiadomość</label>
+        <input name="firstname"/>
+        <input type="submit"/>
+        </form>
+        <form style="margin-left: 330px;" action="/action_page.php" method="get">
+          <input type="Prześlij" value="Prześlij">
+        </form>
+    </body>
+</html>

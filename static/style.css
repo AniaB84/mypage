@@ -1,0 +1,49 @@
+h1 {
+    font-family: Georgia;
+    margin-left: 80px;
+    color: green;
+    background: lightgrey;
+    border-width: 10px grey;
+    text-align: center;
+    padding: 20px; 
+    width: 650px;
+  }
+  img {
+    margin-left: 80px;
+  }
+  .first {
+    font-family: Georgia;
+    font-size: 40px;
+    color: green;
+    margin-left: 80px;
+    font-weight: bold;
+  }
+  .second {
+    font-size: 20px;
+    color: grey;
+    margin-left: 80px;
+  }
+  .three {
+    font-size: 20px;
+    color: grey;
+    margin-left: 80px; 
+  }
+  h1 {
+    font-family: Georgia;
+    margin-left: 80px;
+    color: green;
+    background: lightgrey;
+    border-width: 10px grey;
+    text-align: center;
+    padding: 20px; 
+    width: 650px;
+  }
+  li {
+    color: grey;
+    font-size: 20px;
+    margin-left: 100px;
+  }
+  label {
+    margin-left: 80px;
+    font-size: 30px;
+  } 
